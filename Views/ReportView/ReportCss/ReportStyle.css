@@ -1,0 +1,15 @@
+#rptbtn{
+    float: right !important;
+    height: 31px !important;
+    width: 87px !important;
+    font-size: 18px !important;
+}
+.Div-logo{
+    height: 50px;
+}
+
+@page { 
+
+    size: auto;
+    margin: 1mm; 
+}

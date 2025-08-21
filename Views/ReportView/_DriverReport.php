@@ -1,0 +1,116 @@
+<div class="right_col" role="main">
+    <div class="">
+
+        <div class="page-title">
+            <div class="title_left">
+                <h3></h3>
+            </div>
+        </div>
+
+        <div class="clearfix"></div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                    <div class="x_title">
+                        <h3>চালকের তথ্যসমূহ </h3>
+
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="x_content">
+                        <br />
+                        <form target="_blank" action="Views/ReportView/rptDriver.php" method="get" name="frmDriverRPT" id="frmDriverRPT" data-parsley-validate class="form-horizontal form-label-left">
+
+                            <input type="hidden" name="DocType" id="DocType" value="DRVRPT">
+                        
+                            <div class="container">
+
+                                <div class="row">
+
+                                    <div class="col-sm-3" >
+                                        <tr>
+                                            <td>Driver Name</td>
+                                            <td><input class="form-group" type="text" id="DriverName" name="DriverName"></td>
+                                        </tr> 
+                                    </div>
+                                    <div class="col-sm-3" >
+                                        <tr> 
+                                            <td>এনআইডি নম্বর</td>
+                                            <td><input class="form-group" type="number" id="NID" name="NID" ></td>
+                                        </tr>
+                                    </div>
+                                    <div class="col-sm-3" >
+                                        <tr> 
+                                            <td>রেজিস্ট্রেশন নং</td>
+                                            <td><input class="form-group" type="number" id="RegNo" name="RegNo" ></td>
+                                        </tr>
+                                    </div>
+                                    <div class="col-sm-3" >
+                                        <tr>
+                                            <td>মোবাইল নং</td>
+                                            <td><input class="form-group" type="number" id="Mobile" name="Mobile" ></td>
+                                        </tr> 
+                                    </div>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="DriverReport">চালকের তথ্যসমূহ</label>
+                                    <div class="col-md-3 col-sm-3 col-xs-12">
+                                        <select class="form-control" name="cDivision" id="cDivision" class="form-control">
+                                            <option value="">---- উপজেলা ----</option>
+                                        </select>
+                                    </div>
+                                    <br>                              
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="DriverReport"> <span class="required"></span>
+                                    </label>
+                                    <div class="col-md-3 col-sm-3 col-xs-12">
+                                    <select class="form-control" name="cSubDivision" id="cSubDivision" class="form-control">
+                                        <option value="">---- পৌরসভা ----</option>
+                                    </select>
+                                    </div>
+                                    <br>                              
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="DriverReport"><span class="required"></span>
+                                    </label>
+                                    <div class="col-md-3 col-sm-3 col-xs-12">
+                                        <select class="form-control" class="form-control" name="WardNo" id="WardNo" class="form-control" >
+                                            <option value="">---- ওয়ার্ড নং ----</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="DriverReport"> <span class="required"></span>
+                                    </label>
+                                    <div class="col-md-3 col-sm-3 col-xs-12">
+                                        <select class="form-control" name="Area" id="Area" class="form-control" >
+                                            <option value="">---- গ্রাম/মহল্লা ----</option>
+                                        </select>
+                                    </div>
+                                    <br>                              
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                                        <button type="submit" class="btn btn-success">View</button>
+                                    </div>
+                                </div>
+                            </div>    
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- /page content -->

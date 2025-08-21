@@ -1,0 +1,2 @@
+[01-Jan-2019 10:20:11 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[01-Jan-2019 10:20:11 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/fzdesignbd/public_html/Upload/FileUpload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in Unknown on line 0

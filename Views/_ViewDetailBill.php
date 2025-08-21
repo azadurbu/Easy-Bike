@@ -1,0 +1,86 @@
+<!-- Bootstrap Modal - To Add New Record -->
+<!-- Modal -->
+<div class="modal fade" id="DetailBillModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<form  method="post" name="detailBill" id="detailBill" data-parsley-validate class="form-horizontal form-label-left" enctype="multipart/form-data">
+			<div class="modal-content">
+		
+				<input type="hidden" name="DocType" id="DocType" value="DBL">
+				<input type="hidden" name="ActionType" id="ActionType" value="View">
+
+
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+					<h4 class="modal-title" id="myModalLabel">View Record</h4>
+				</div>
+
+				<div class="modal-body">
+				
+					<div id="status"></div>
+					<div class="form-group">
+						<label for="Code">কোড <span class="required">*</span></label>
+						<input class="form-control" type="text" name="Code" id="Code" value="" required="required" readonly>
+					</div>
+			 
+					<div class="form-group">
+						<label  for="FiscalYear">অর্থ বছর <span class="required">*</span></label>
+						<input class="form-control" type="text" name="FiscalYear" id="FiscalYear" required="required" value="2018-2019" readonly="readonly">
+					</div>
+
+					<div class="form-group">
+						<label for="RegNo">রেজিস্ট্রেশন নং<span class="required">*</span></label>
+						<input class="form-control" type="text" name="RegNo" id="RegNo" required="required" value="" readonly="readonly">
+					</div>
+			 
+					<div class="form-group">
+						<label for="RegDate">রেজিস্ট্রেশনের তারিখ <span class="required">*</span></label>
+						<input class="form-control" type="text" name="RegDate" id="RegDate" required="required" readonly="readonly">
+					</div>
+
+					<div class="form-group">
+						<label for="ExpiredDate">মেয়াদ উত্তীর্ণের তারিখ <span class="required">*</span></label>
+						<input class="form-control" type="text" name="ExpiredDate" id="ExpiredDate" required="required" readonly="readonly">
+					</div>
+					<div class="form-group">
+						<label for="RegFee">রেজিস্ট্রেশন ফি<span class="required">*</span></label>
+						<input class="form-control" type="text"   name="RegFee" id="RegFee" required="required" readonly="readonly">
+					</div>
+		
+					<div class="form-group">
+						<label for="Arrear">এরিয়ার<span class="required">*</span></label>
+						<input class="form-control" type="text"   name="Arrear" id="Arrear" required="required" readonly="readonly">
+					</div>
+
+						<div class="form-group">
+						<label for="SurCharge">সারচার্জ<span class="required">*</span></label>
+						<input class="form-control" type="text"   name="SurCharge" id="SurCharge" required="required" readonly="readonly">
+					</div>
+
+					<div class="form-group">
+						<label for="Total">সর্বমোট<span class="required">*</span></label>
+						<input class="form-control" type="text"   name="Total" id="Total" required="required" readonly="readonly">
+					</div>
+
+					<div class="form-group">
+						<label for="Due">পরিশোধযোগ্য<span class="required">*</span></label>
+						<input class="form-control" type="text"   name="Due" id="Due" required="required" readonly="readonly">
+					</div>
+
+					<div class="form-group">
+						<label for="Fine">জরিমানা<span></span></label>
+						<input class="form-control" type="text"   name="Fine" id="Fine" ">
+					</div>
+
+				</div>
+		
+				<div class="modal-footer">
+			        <button type="Submit" class="btn btn-default left" >Udpate Fine</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+				</div>
+			
+			</div>
+		</form>
+	</div>
+</div>
+
+

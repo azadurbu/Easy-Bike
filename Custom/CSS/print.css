@@ -1,0 +1,267 @@
+
+body {
+    -webkit-print-color-adjust: exact !important;
+}
+
+@page {
+
+    size: auto;
+    margin: 1mm;
+}
+
+@media print
+{
+    .card.highlighted
+    {
+        background-color: seashell !important;
+    }
+}
+
+#printableAreaFront{
+    margin-top: 10px !important;
+    margin-left: 9% !important
+}
+
+#printableAreaBack{
+    margin-top: 1px !important;
+    margin-left: 0% !important
+}
+
+#printableAreaQR{
+    margin-top: 1px !important;
+    margin-left: 0% !important
+}
+
+/*#printableAreaInvoice{
+    margin-top: 1px !important;
+    margin-left: 0% !important
+}
+*/
+
+.card-body-front {
+
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    height: 290px;
+    width: 480px;
+    color: black;
+}
+
+.card-bg{
+    z-index: 1;
+    height: 296px;
+    width: 490px;
+    position: absolute;
+}
+
+.cardTable {
+    position: absolute;
+    z-index: 3;
+    width: 460px;
+}
+
+.cardTable tbody tr td:first-child{
+
+    padding-left: 28px;
+    width: 150px;
+}
+
+.cardTable tbody tr td:second-child{
+
+    width: 150px;
+}
+
+.cardTable tbody tr td:third-child{
+
+    width: 100px;
+}
+
+.card-logo {
+    height: 30px;
+    width: 53px;
+    margin-left: 24px;
+    margin-top: 10px;
+}
+
+.card-sig {
+    height: 30px;
+    width: 100px;
+
+}
+
+.card-photo {
+    height: 122px;
+    width: 107px;
+    margin-top: 55px;
+    margin-left: -1px;
+}
+
+.card-body-back {
+
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    height: 290px;
+    width: 480px;
+    color: black;
+}
+
+.cardQR {
+    position: absolute;
+    z-index: 3;
+    width: 480px;
+}
+
+.card-qr{
+    padding-top: 40px;
+    padding-bottom: 25px;
+    margin-left: -28px;
+    margin-top: -10px;
+}
+
+/*  .card-input {
+      border-style: none;
+      background: none;
+      font-size: 14px;
+      font-weight: 600;
+
+  }*/
+
+
+
+.invContainer
+{
+    color: black;
+}
+
+.invHeader
+{
+    text-align: center;
+}
+
+.invInfo
+{
+    margin-left: 10px;
+}
+
+.invTableBill
+{
+    margin-left: 10px;
+    width: 288px;
+}
+
+.invTableBill tbody tr td:first-child
+{
+    text-align: left;
+    width:200px;
+}
+
+.invTableBill tbody tr td
+{
+    text-align: right;
+    width:200px;
+}
+
+.invTableInfo
+{
+    margin-left: 8px;
+    width: 288px;
+}
+
+.invTableInfo tbody tr td:first-child
+{
+    text-align: left;
+    width:150px;
+}
+
+.invTableInfo tbody tr td
+{
+    text-align: left;
+    width:250px;
+}
+
+.invTableSig
+{
+    margin-left: 8px;
+    width: 288px;
+}
+
+.invSig
+{
+    height: 25px;
+    width: 50px;
+}
+
+.invBankInfo
+{
+    margin-left: 8px;
+    width: 288px;
+}
+
+.invBankInfo tbody tr td:first-child{
+
+    width: 35%;
+}
+
+.invBankInfo tbody tr td:second-child{
+
+    width: 40%;
+}
+
+.invBankInfo tbody tr td:third-child{
+
+    width: 25%;
+}
+
+
+.QR-BG{
+
+    z-index: 1;
+    height: 800px;
+    width: 530px;
+    background: #ffff00;
+    position: absolute;
+}
+
+
+
+.QR-Frame{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+
+.QR-BODY {
+
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background: #ffff00;
+    height: 600px;
+    width: 300px;
+    color: black;
+}
+
+.QRTable {
+    position: absolute;
+    z-index: 3;
+    width: 400px;
+}
+
+.QRTable tbody tr td:first-child{
+
+    padding-left: 10px;
+    width: 100px;
+}
+
+.QRTable tbody tr td:second-child{
+
+    width: 300px;
+}
+

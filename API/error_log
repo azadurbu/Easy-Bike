@@ -1,0 +1,108 @@
+[16-Jul-2019 12:59:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '12')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:02:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '0')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '500')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '0')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '122222')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '122222')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '122222')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '122222')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '122222')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '122222')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '0')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '0')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '0')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:11:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '0')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '12')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:17:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03473', '0')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:19:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03470', '2222')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21
+[16-Jul-2019 13:19:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fzdesignbd/public_html/Config/Crud.php:21
+Stack trace:
+#0 /home/fzdesignbd/public_html/API/API_Bill.php(58): Crud->getData('UPDATE bill SET...')
+#1 /home/fzdesignbd/public_html/API/ApiHendlar_Bill.php(46): Api_Bill->UpdateFineBill('SBL03470', '0')
+#2 {main}
+  thrown in /home/fzdesignbd/public_html/Config/Crud.php on line 21

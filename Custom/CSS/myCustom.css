@@ -1,0 +1,27 @@
+.container .row.pouro-name{
+
+    background:  #f6cc4a  ; 
+
+}
+
+.toggle a{
+    color: white !important ;
+}
+
+.nav.navbar-nav>li>a {
+    color: white !important ;
+}
+
+.nav.side-menu>li>a {
+    /* color: 	#f6cc4a !important; */
+    color: 	#f7b82e !important;
+    background-color: rgb(62, 73, 73);
+}
+
+.nav-md{
+    background: white;
+}
+
+.nav.side-menu>li.current-page {
+    border-right: 7px solid #1ABB9C !important;
+}

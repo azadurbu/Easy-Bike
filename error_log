@@ -1,0 +1,238 @@
+[24-Sep-2018 12:07:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[24-Sep-2018 12:07:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[24-Sep-2018 12:08:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[24-Sep-2018 12:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[24-Sep-2018 12:19:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[24-Sep-2018 12:19:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[24-Sep-2018 12:22:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[24-Sep-2018 12:22:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[25-Sep-2018 05:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[25-Sep-2018 05:28:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[25-Sep-2018 06:01:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[25-Sep-2018 06:01:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[25-Sep-2018 06:38:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[25-Sep-2018 06:39:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[25-Sep-2018 06:41:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[25-Sep-2018 06:41:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[25-Sep-2018 07:22:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[25-Sep-2018 07:25:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[25-Sep-2018 07:25:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[25-Sep-2018 07:25:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[25-Sep-2018 08:07:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[25-Sep-2018 11:33:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[26-Sep-2018 04:33:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[26-Sep-2018 04:33:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[26-Sep-2018 05:24:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[26-Sep-2018 14:25:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[26-Sep-2018 14:27:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[27-Sep-2018 06:07:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[27-Sep-2018 08:15:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[27-Sep-2018 08:18:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[27-Sep-2018 08:18:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[27-Sep-2018 08:18:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[27-Sep-2018 08:19:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[27-Sep-2018 08:19:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[28-Sep-2018 22:24:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[28-Sep-2018 22:29:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[28-Sep-2018 22:29:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[28-Sep-2018 22:29:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[28-Sep-2018 22:29:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[28-Sep-2018 22:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[29-Sep-2018 08:00:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[29-Sep-2018 08:22:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_ListVehicle.php on line 76
+[29-Sep-2018 08:22:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_ListOwner.php on line 66
+[29-Sep-2018 08:34:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:31) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:34:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:31) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:36:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:31) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:36:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:31) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:37:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:35) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:37:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:35) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:38:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:35) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:38:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:35) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:38:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:35) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:38:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fzdesignbd/public_html/index.php:35) in /home/fzdesignbd/public_html/index.php on line 37
+[29-Sep-2018 08:45:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_AccountList.php on line 64
+[29-Sep-2018 08:46:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[29-Sep-2018 08:58:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 09:04:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[29-Sep-2018 09:05:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_BankList.php on line 62
+[29-Sep-2018 11:28:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocSubDivisionList.php on line 62
+[29-Sep-2018 11:28:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocAreaList.php on line 63
+[29-Sep-2018 19:54:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 19:55:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 19:55:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 19:55:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 19:56:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocSubDivisionList.php on line 62
+[29-Sep-2018 19:56:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocWardNoList.php on line 62
+[29-Sep-2018 19:56:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocAreaList.php on line 63
+[29-Sep-2018 20:06:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 20:09:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 20:10:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocSubDivisionList.php on line 62
+[29-Sep-2018 20:10:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocWardNoList.php on line 62
+[29-Sep-2018 20:11:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocAreaList.php on line 63
+[29-Sep-2018 20:14:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 20:14:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 20:14:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 20:15:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocDivisionList.php on line 60
+[29-Sep-2018 20:15:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fzdesignbd/public_html/Views/_LocSubDivisionList.php on line 62
+[29-Sep-2018 20:19:48 UTC] PHP Warning:  require_once(aBase.php): failed to open stream: No such file or directory in /home/fzdesignbd/public_html/Location/LocationAction/aLocation.php on line 2
+[29-Sep-2018 20:19:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'aBase.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/fzdesignbd/public_html/Location/LocationAction/aLocation.php on line 2
+[29-Sep-2018 20:19:54 UTC] PHP Warning:  require_once(aBase.php): failed to open stream: No such file or directory in /home/fzdesignbd/public_html/Location/LocationAction/aLocation.php on line 2
+[29-Sep-2018 20:19:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'aBase.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/fzdesignbd/public_html/Location/LocationAction/aLocation.php on line 2
+[29-Sep-2018 20:19:54 UTC] PHP Warning:  require_once(aBase.php): failed to open stream: No such file or directory in /home/fzdesignbd/public_html/Location/LocationAction/aLocation.php on line 2
+[29-Sep-2018 20:19:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'aBase.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/fzdesignbd/public_html/Location/LocationAction/aLocation.php on line 2
+[29-Sep-2018 20:20:13 UTC] PHP Warning:  require_once(aBase.php): failed to open stream: No such file or directory in /home/fzdesignbd/public_html/Location/LocationAction/aLocation.php on line 2
+[29-Sep-2018 20:20:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'aBase.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/fzdesignbd/public_html/Location/LocationAction/aLocation.php on line 2
+[30-Sep-2018 05:05:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:05:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:06:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:07:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:40:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:40:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:42:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 42
+[30-Sep-2018 05:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 44
+[30-Sep-2018 05:45:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 44
+[30-Sep-2018 05:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionCommon::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 44
+[30-Sep-2018 05:48:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ActionDriver::GetDriverInfo() in /home/fzdesignbd/public_html/CheckDriver.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fzdesignbd/public_html/CheckDriver.php on line 47
+[07-Oct-2018 21:23:20 UTC] PHP Fatal error:  Cannot declare class ActionUser, because the name is already in use in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 3
+[07-Oct-2018 21:23:27 UTC] PHP Fatal error:  Cannot declare class ActionUser, because the name is already in use in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 3
+[07-Oct-2018 21:24:00 UTC] PHP Fatal error:  Cannot declare class ActionUser, because the name is already in use in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 3
+[09-Oct-2018 09:28:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function GetAllUser() on null in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessParent.php:7
+Stack trace:
+#0 /home/fzdesignbd/public_html/SetUserAccessParent.php(5): include()
+#1 {main}
+  thrown in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessParent.php on line 7
+[14-Oct-2018 11:27:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php:60
+Stack trace:
+#0 /home/fzdesignbd/public_html/DriverCardBill.php(5): include()
+#1 {main}
+  thrown in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 60
+[14-Oct-2018 11:28:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php:45
+Stack trace:
+#0 /home/fzdesignbd/public_html/DriverCardBill.php(5): include()
+#1 {main}
+  thrown in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 45
+[14-Oct-2018 11:28:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php:45
+Stack trace:
+#0 /home/fzdesignbd/public_html/DriverCardBill.php(5): include()
+#1 {main}
+  thrown in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 45
+[14-Oct-2018 11:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php:45
+Stack trace:
+#0 /home/fzdesignbd/public_html/DriverCardBill.php(5): include()
+#1 {main}
+  thrown in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 45
+[18-Oct-2018 15:25:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function GetAllUser() on null in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessParent.php:7
+Stack trace:
+#0 /home/fzdesignbd/public_html/SetUserAccessParent.php(5): include()
+#1 {main}
+  thrown in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessParent.php on line 7
+[05-Nov-2018 09:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function GetAllUser() on null in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessChild.php:7
+Stack trace:
+#0 /home/fzdesignbd/public_html/SetUserAccessChild.php(5): include()
+#1 {main}
+  thrown in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessChild.php on line 7
+[05-Nov-2018 11:35:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessChild.php on line 598
+[05-Nov-2018 12:58:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fzdesignbd/public_html/Views/OwnerCardBill/_ListOwnerBill.php on line 147
+[05-Nov-2018 12:58:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fzdesignbd/public_html/Views/OwnerCardBill/_ListOwnerBill.php on line 147
+[05-Nov-2018 12:59:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fzdesignbd/public_html/Views/OwnerCardBill/_ListOwnerBill.php on line 147
+[05-Nov-2018 13:00:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fzdesignbd/public_html/Views/OwnerCardBill/_ListOwnerBill.php on line 147
+[05-Nov-2018 13:11:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:11:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:12:01 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:12:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:12:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:12:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:12:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:12:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:13:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:13:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:13:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[05-Nov-2018 13:14:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/fzdesignbd/public_html/Views/DriverCardBill/_ListDriverBill.php on line 63
+[27-Nov-2018 09:27:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 61
+[27-Nov-2018 09:27:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 61
+[27-Nov-2018 09:27:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 61
+[27-Nov-2018 09:27:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 61
+[27-Nov-2018 09:27:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 61
+[27-Nov-2018 09:27:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 61
+[27-Nov-2018 09:27:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 61
+[09-Dec-2018 05:52:13 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[13-Jan-2019 05:46:57 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[23-Feb-2019 06:24:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function GetAllUser() on null in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessChild.php:7
+Stack trace:
+#0 /home/fzdesignbd/public_html/SetUserAccessChild.php(5): include()
+#1 {main}
+  thrown in /home/fzdesignbd/public_html/Views/UserAccess/_UserAccessChild.php on line 7
+[02-Apr-2019 06:53:17 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:29 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:30 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:31 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:32 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:33 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:33 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:34 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:34 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:35 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:35 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:36 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[01-Jul-2019 03:55:37 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[12-Jul-2019 07:16:59 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[12-Jul-2019 07:17:06 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
+[12-Jul-2019 07:17:47 UTC] PHP Warning:  Illegal string offset 'user_id' in /home/fzdesignbd/public_html/User/UserAction/aUser.php on line 59
