@@ -51,4 +51,4 @@ A dedicated portal for transport authorities to monitor vehicles, verify complia
 
 ## 📄 License
 
-**This project is proprietary and developed for Chattogram City Corporation, Chattogram, Bangladesh. Unauthorized distribution is prohibited.
+This project is proprietary and developed for Chattogram City Corporation, Chattogram, Bangladesh. Unauthorized distribution is prohibited.
