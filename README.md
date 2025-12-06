@@ -45,7 +45,3 @@ Database: MySQL
 🏙️ Target Area
 
 Chittagong Metropolitan City, Bangladesh – focused on improving urban transport regulation and digitization.
-
-📂 Project Status
-
-✅ Completed 
