@@ -1,47 +1,54 @@
-🚲 Easy Bike Management System - Chittagong Metropolitan City
+# 🚲 Easy Bike Management System – Chittagong Metropolitan City
 
-A web-based bike registration and monitoring system designed to regulate and manage the operation of easy bikes (electric three-wheelers) within Chittagong Metropolitan City. This system ensures that only registered and authorized vehicles can operate on city roads by providing tools for registration, permit management, ownership tracking, and fee collection.
+A **web-based registration and monitoring platform** designed to regulate and manage the operation of **easy bikes (electric three-wheelers)** within **Chittagong Metropolitan City**.
+This system ensures that only **authorized and registered** vehicles can operate on city roads by offering tools for registration, permit issuance, ownership tracking, and fee collection.
 
-📌 Key Features
+---
 
-📝 Easy Bike Registration
-Register all operating easy bikes with owner details and vehicle information.
+## 📌 Features
 
-🚫 Restrict Unregistered Vehicles
-Block or flag unauthorized bikes from operating within the city limits.
+### ✅ Easy Bike Registration
 
-🛣️ Road Permission System
-Bike owners must purchase road permits (daily/weekly/monthly) to legally use specific routes.
+Register all easy bikes with detailed owner information and vehicle specifications.
 
-💳 Fee & Payment Management
-Collect and track registration fees, permit charges, and renewals through a digital system.
+### 🚫 Restrict Unregistered Vehicles
 
-🔄 Ownership Transfer
-Allows secure and trackable ownership changes for easy bikes.
+Automatically block or flag unauthorized bikes from operating within the city limits.
 
-🧑‍💼 Admin Panel for Authorities
-Dashboard for transport department officials to oversee vehicle records, monitor compliance, and generate reports.
+### 🛣️ Road Permission System
 
-🎯 Project Goals
+Owners can purchase **daily, weekly, or monthly road permits** for using designated routes.
 
-Ensure safe, legal, and organized operation of easy bikes.
+### 💳 Fee & Payment Management
 
-Prevent the use of unregistered or unauthorized vehicles.
+Digitally collect and track registration fees, permit payments, and renewals.
 
-Provide a centralized digital platform for easy bike management.
+### 🔄 Ownership Transfer
 
-Improve traffic flow and reduce illegal parking or overloading.
+Secure features for transferring vehicle ownership with proper verification.
 
-Support revenue collection for permits and services.
+### 🧑‍💼 Admin Dashboard
 
-🛠️ Tech Stack (Suggested)
+A dedicated portal for transport authorities to monitor vehicles, verify compliance, manage permits, and generate reports.
 
-Frontend: HTML, CSS, JavaScript, Bootstrap 
+---
 
-Backend: PHP
+## 🎯 Project Goals
 
-Database: MySQL
+* Ensure safe, legal, and organized easy-bike operations.
+* Prevent the use of unregistered or unauthorized vehicles.
+* Provide a centralized digital platform for transport regulation.
+* Improve traffic flow and reduce illegal parking or overloading.
+* Support efficient revenue collection for permits and services.
 
-🏙️ Target Area
+---
 
-Chittagong Metropolitan City, Bangladesh – focused on improving urban transport regulation and digitization.
+## 🏙️ Target Area
+
+**Chittagong Metropolitan City, Bangladesh** — aimed at enhancing urban transport regulation through digitization and smart monitoring.
+
+---
+
+## 📄 License
+
+**This project is proprietary and developed for Chattogram City Corporation, Chattogram, Bangladesh. Unauthorized distribution is prohibited.
